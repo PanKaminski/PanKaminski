@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my profile👋
 
 <!--
 **PanKaminski/PanKaminski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+A few words about 
+- :infinity: Strong mathematician
+- :computer: .NET developer
+- :camping: Traveler
+- :coin: Archaeologist
