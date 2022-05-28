@@ -20,3 +20,5 @@ A few words about
 - :computer: .NET developer
 - :camping: Traveler
 - :coin: Archaeologist
+
+[LinkedIn Profile](https://www.linkedin.com/in/fiodar-kaminski/ "Fiodar Kaminski")
