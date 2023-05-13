@@ -19,6 +19,6 @@ A few words about
 - :infinity: Strong mathematician
 - :computer: .NET developer
 - :camping: Traveler
-- :coin: Archaeologist
+- :european_castle: Archaeologist
 
 [LinkedIn Profile](https://www.linkedin.com/in/fiodar-kaminski/ "Fiodar Kaminski")
