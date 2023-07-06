@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-A few words about 
+A few words about me
 - :infinity: Strong mathematician
 - :computer: .NET developer
 - :camping: Traveler
